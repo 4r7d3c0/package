@@ -1,0 +1,9 @@
+{
+  "name": "@4r7d3c0/package",
+  "version": "1.0.0",
+  "description": "A test package.",
+  "main": "index.js",
+  "repository": "https://github.com/4r7d3c0/package",
+  "author": "Anton",
+  "license": "AGPL-3.0"
+}
