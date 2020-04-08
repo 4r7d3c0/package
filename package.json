@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "A test package.",
   "main": "index.js",
-  "repository": "https://github.com/4r7d3c0/package",
+  "repository": "git://github.com/4r7d3c0/package.git",
   "author": "Anton",
-  "license": "AGPL-3.0"
+  "license": "AGPL-3.0",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
 }
